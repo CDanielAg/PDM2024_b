@@ -36,12 +36,60 @@
 - **[activity_main2.xml](Practica03/Problema02/activity_main2.xml)**: Segundo archivo de layout XML para la segunda aplicación.
 - **[MainActivity.kt](Practica03/Problema02/MainActivity.kt)**: Actividad principal de la segunda aplicación, maneja la lógica y la interfaz de usuario.
 - **[MainActivity2.kt](Practica03/Problema02/MainActivity2.kt)**: Segunda actividad de la segunda aplicación.
-- **[Audios](Practica03/Problema02/Audios)**: Carpeta que contiene archivos de audio usados en la segunda aplicación, los cuales se deben colocar den la carpeta /res/raw.
+- **[Audios](Practica03/Problema02/Audios)**: Carpeta que contiene archivos de audio usados en la segunda aplicación, los cuales se deben colocar en la carpeta /res/raw.
   - **[audio01.mp3](Practica03/Problema02/Audios/audio01.mp3)**
   - **[audio02.mp3](Practica03/Problema02/Audios/audio02.mp3)**
   - **[audio03.mp3](Practica03/Problema02/Audios/audio03.mp3)**
   - **[audio04.mp3](Practica03/Problema02/Audios/audio04.mp3)**
   - **[audio05.mp3](Practica03/Problema02/Audios/audio05.mp3)**
 
-Para ejecutar los archivos `.kt`, asegúrate de tener el [JDK de Kotlin](https://kotlinlang.org/docs/command-line.html) instalado. Puedes compilar y ejecutar los archivos desde la línea de comandos o usar un IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/), para la [Practica03](Practica03) es necesario usar [Android Studio](https://developer.android.com/studio?hl=es-419).
+### [Practica04](Practica04)
 
+#### [Problema01](Practica04/Problema01)
+
+- **[MainActivity.kt](Practica04/Problema01/MainActivity.kt)**: Actividad principal de la primera práctica.
+- **[MusicFragment.kt](Practica04/Problema01/MusicFragment.kt)**: Fragmento para gestionar la reproducción de música.
+- **[SelectorFragment.kt](Practica04/Problema01/SelectorFragment.kt)**: Fragmento para seleccionar la música a reproducir.
+
+- **[drawable](Practica04/Problema01/drawable)**: Carpeta que contiene recursos gráficos.
+  - **[ic_launcher_background.xml](Practica04/Problema01/drawable/ic_launcher_background.xml)**
+  - **[ic_launcher_foreground.xml](Practica04/Problema01/drawable/ic_launcher_foreground.xml)**
+  - **[ifa0001.jpg](Practica04/Problema01/drawable/ifa0001.jpg)**
+  - **[ifa0002.jpg](Practica04/Problema01/drawable/ifa0002.jpg)**
+  - **[ifa0003.jpg](Practica04/Problema01/drawable/ifa0003.jpg)**
+
+- **[layout](Practica04/Problema01/layout)**: Carpeta que contiene archivos de diseño XML.
+  - **[activity_main.xml](Practica04/Problema01/layout/activity_main.xml)**
+  - **[fragment_music.xml](Practica04/Problema01/layout/fragment_music.xml)**
+  - **[fragment_selector.xml](Practica04/Problema01/layout/fragment_selector.xml)**
+
+- **[raw](Practica04/Problema01/raw)**: Carpeta que contiene archivos de audio.
+  - **[audio01.mp3](Practica04/Problema01/raw/audio01.mp3)**
+  - **[audio02.mp3](Practica04/Problema01/raw/audio02.mp3)**
+  - **[audio03.mp3](Practica04/Problema01/raw/audio03.mp3)**
+  - **[audio04.mp3](Practica04/Problema01/raw/audio04.mp3)**
+  - **[audio05.mp3](Practica04/Problema01/raw/audio05.mp3)**
+
+#### [Problema02](Practica04/Problema02)
+
+- **[ImageFragment.kt](Practica04/Problema02/ImageFragment.kt)**: Fragmento para mostrar imágenes.
+- **[MainActivity.kt](Practica04/Problema02/MainActivity.kt)**: Actividad principal de la segunda práctica.
+- **[SelectorFragment.kt](Practica04/Problema02/SelectorFragment.kt)**: Fragmento para seleccionar imágenes.
+
+- **[drawable](Practica04/Problema02/drawable)**: Carpeta que contiene recursos gráficos.
+  - **[ic_launcher_background.xml](Practica04/Problema02/drawable/ic_launcher_background.xml)**
+  - **[ic_launcher_foreground.xml](Practica04/Problema02/drawable/ic_launcher_foreground.xml)**
+  - **[ifa0001.jpg](Practica04/Problema02/drawable/ifa0001.jpg)**
+  - **[ifa0002.jpg](Practica04/Problema02/drawable/ifa0002.jpg)**
+  - **[ifa0003.jpg](Practica04/Problema02/drawable/ifa0003.jpg)**
+
+- **[layout](Practica04/Problema02/layout)**: Carpeta que contiene archivos de diseño XML.
+  - **[activity_main.xml](Practica04/Problema02/layout/activity_main.xml)**
+  - **[fragment_image.xml](Practica04/Problema02/layout/fragment_image.xml)**
+  - **[fragment_selector.xml](Practica04/Problema02/layout/fragment_selector.xml)**
+
+### [Practica05](Practica05)
+
+- **[RecyclerView.rar](Practica05/RecyclerView.rar)**: Archivo comprimido que contiene la implementación del RecyclerView.
+
+Para ejecutar los archivos `.kt`, asegúrate de tener el [JDK de Kotlin](https://kotlinlang.org/docs/command-line.html) instalado. Puedes compilar y ejecutar los archivos desde la línea de comandos o usar un IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/). Para la [Practica03](Practica03) es necesario usar [Android Studio](https://developer.android.com/studio?hl=es-419).
